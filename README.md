@@ -66,6 +66,12 @@ This project was developed as part of my Diploma in Electronics and Communicatio
 - Laboratories
 - Storage facilities
 
+  ## Source Code Note
+
+The original source code developed during the diploma project was unavailable. The current implementation has been reconstructed based on the original system architecture, hardware components, and intended functionality.
+
+The reconstructed code follows the same core functionality of gas, smoke, and flame detection with GSM-based SMS alerts.
+
 ## My Contribution
 
 - Interfaced MQ-2, MQ-135, and IR flame sensors with Arduino Uno
